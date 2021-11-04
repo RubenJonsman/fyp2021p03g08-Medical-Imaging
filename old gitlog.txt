@@ -1,0 +1,1137 @@
+commit 9acbdd49564ffe1838a3abf2882ea7608c68fcfb
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Wed Apr 21 13:31:50 2021 +0200
+
+    Fixed task 0 kinda
+
+commit 0998a0844c3d3c2c76151d4a992a30bb3b9d2427
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Wed Apr 21 10:24:25 2021 +0200
+
+    Added the symmetry feature for keratosis csv
+
+commit 759f70ef61d4ee5789cf769362bad81c7f775330
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 22:27:33 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit 0063b99fa6c0473b3690b34e1586396fda15310d
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 22:27:31 2021 +0200
+
+    Update main.ipynb
+
+commit 1f990ee9eee70fc2c9b7765819df9c80fec66fe7
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 22:13:46 2021 +0200
+
+    Update main.ipynb
+
+commit b925d91c571334606a60f43ae6de775bdaf004f6
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 20 20:13:36 2021 +0200
+
+    Keratosis color measurements
+
+commit 97132d6cec7d6ddfbeb7bef3fbc2cdad00ccb212
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 19:28:15 2021 +0200
+
+    Update final_unbalanced.csv
+
+commit af296134925690b51ff1429f546259129c2d6861
+Merge: ade84e8 fc6434f
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 19:25:43 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit ade84e8acbd2a63409e0d437d81a165367dfa859
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 19:25:41 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit 33f0003fa8b0970f44bacb269442b0564c579c10
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 19:25:38 2021 +0200
+
+    Update keratosis.csv
+
+commit 0216c7551f03d6f52fae0405e8ce730ca7ac63de
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 19:25:36 2021 +0200
+
+    Create final_unbalanced.csv
+
+commit fc6434f23fa902c30af1616b4d9b026104ccbbcb
+Author: rubj <rubj@itu.dk>
+Date:   Tue Apr 20 19:08:19 2021 +0200
+
+    main stuff
+
+commit 063fdb089ac695c15edf780601c9d33eded41a5a
+Merge: 4a49e6a c5783d5
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 20 18:53:13 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 4a49e6a07df1a7d3fd51d150dcac12c53de3956d
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 20 18:53:07 2021 +0200
+
+    Color plotting
+
+commit c5783d54cb1834f82aaa4724f87c50979ad6267b
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Tue Apr 20 18:38:24 2021 +0200
+
+    a lot of figures for the color in balanced
+
+commit 64ac5a2a1a0eb23b623c6ce8a14fad5c058f6eac
+Author: rubj <rubj@itu.dk>
+Date:   Tue Apr 20 18:22:05 2021 +0200
+
+    main stuff
+
+commit f921380eef9d2fa13ae4a31389930a2393ec12dc
+Merge: 1c50edd 4576c14
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 20 18:13:26 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 1c50eddf67def0b40d1abd6e30f76d80ec79a3dc
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 20 18:13:23 2021 +0200
+
+    Not much
+
+commit 4576c146e1ae56bdacce80c603a10fe116415c9c
+Merge: 0abdde5 627f4cb
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 20 18:11:31 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 0abdde5b4d06152ddb479d7106ef3df951cecf3c
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 20 18:11:20 2021 +0200
+
+    Trying to plot color
+
+commit e9ccb4bf34ab3a6067bd2bd303c52ca8be0364b4
+Merge: fc30ec2 627f4cb
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 17:21:58 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit fc30ec2b37ff0e8eaf3a866fc7b8b275bf6a94d9
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 17:21:56 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit 627f4cb045e3942ec49089f888a2f5938a46523e
+Author: rubj <rubj@itu.dk>
+Date:   Tue Apr 20 16:51:37 2021 +0200
+
+    some stuff
+
+commit b8dc6ab21249ff423b7d08f58db8d55f9bd988e7
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 16:45:14 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit c7a993e42b64ac72d9ed46704e8be2fe8a60f229
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 16:45:11 2021 +0200
+
+    Create keratosis.csv
+
+commit a562e4923a8adf948a0adbb55fcc2fef6a7ef522
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 16:14:38 2021 +0200
+
+    Update final_balanced.csv
+    
+    Added normalised area, perimeter, etc.
+
+commit f0af2e10758e0350da1dff80e717edbe1904714a
+Merge: 0a8596c d9fb1a7
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 15:28:39 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 0a8596cbb6a1c0cdb0e0759ed5aea68f67818d85
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 15:28:38 2021 +0200
+
+    Update final_balanced.csv
+
+commit d9fb1a71a85190870db1465a9a88248a84eed556
+Merge: e810d52 d91618f
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 20 15:02:34 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit e810d52267e359fecf75ec19dc4e9b5e4472c6c8
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 20 15:02:30 2021 +0200
+
+    color in main
+
+commit d91618fa56431ebe0bff462d25f0991d32e5846d
+Merge: 75497d0 cc80178
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 14:43:46 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 75497d0774681960772f0442a23877273ebd336e
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 14:43:44 2021 +0200
+
+    Cropped images and masks to show only lesion.
+
+commit cc80178e0338ee6cbdfe287eeea8238119fe7386
+Merge: 7905c70 c011275
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 20 14:28:37 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 7905c7048434b487bc4f486cc2bda8b43dba12f8
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 20 14:28:33 2021 +0200
+
+    adding color to main and final color measurements
+
+commit c011275e225a72b09ecdd94f0cc38292f7eafa0c
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Tue Apr 20 14:27:21 2021 +0200
+
+    Delete all_color_measurements_normalized.csv
+
+commit 8cbd10e743465b2f729afda032838ddf0615a630
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 13:54:07 2021 +0200
+
+    Resizing images sample.
+
+commit 96e89ed768cbc2307d10544e5b9a707ce8ea53ca
+Merge: 770dfa4 63e7bef
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 13:10:03 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 770dfa43e40174999d26aac952787fe0cc26306f
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 20 13:10:00 2021 +0200
+
+    Refactor personal notebooks.
+
+commit 63e7bef8bf1d8276f041c9cf24f2543ffa71bb28
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Tue Apr 20 12:27:23 2021 +0200
+
+    Magnus addition to notebook
+
+commit 9d96fba48a96e48c050ec1da8ec25dd015edc3b2
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Mon Apr 19 21:55:14 2021 +0200
+
+    exploration addings
+
+commit 3da6b4b9183b4adbbecd63e82feef4e70cfa7652
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon Apr 19 16:15:12 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit 25db403decbafb63fb7abfb139b281c1269f4a87
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon Apr 19 16:15:10 2021 +0200
+
+    Create balanced_dataset_pairplot.png
+
+commit f37a9e1d0ab93059d72167f852bf5e0f1125e996
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon Apr 19 16:15:07 2021 +0200
+
+    Create melanoma_healthy_balanced.csv
+
+commit 0613765aa236b771a8536b16c2a35e78a4dce6fa
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon Apr 19 16:15:05 2021 +0200
+
+    Create final_balanced.csv
+
+commit 6110bd3d59a73717dbbe59e9814116672391491b
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon Apr 19 15:05:15 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit 9f3e411873209cf3df046b121c303bad69686495
+Merge: 8d59e52 6a77190
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon Apr 19 14:40:31 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 8d59e522f358f10634429cf950405e2ffe79cc01
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon Apr 19 14:40:28 2021 +0200
+
+    Update final.csv
+
+commit f283fa06a9f35d2166956eecd703882bc7f6a770
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon Apr 19 14:40:25 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit 6a771907c48c34c093d3db0b42a9b5d74761bc63
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Sun Apr 18 21:02:57 2021 +0200
+
+    more color
+
+commit 51689e66c0c34d16301570a72c94d51093137337
+Author: rubj <rubj@itu.dk>
+Date:   Sun Apr 18 17:28:19 2021 +0200
+
+    more ml
+
+commit ad1d61057a146e067b36e85ae34fcb55cfbb8967
+Author: rubj <rubj@itu.dk>
+Date:   Sun Apr 18 16:39:56 2021 +0200
+
+    all feature file
+
+commit 95a068dfe9fbde23856ec3f9d3afb236597bb859
+Author: rubj <rubj@itu.dk>
+Date:   Sun Apr 18 15:56:31 2021 +0200
+
+    ML stuff
+
+commit ca9be9aa2e47aa42969ff7f73bbc6f949986fac3
+Author: rubj <rubj@itu.dk>
+Date:   Sun Apr 18 14:25:20 2021 +0200
+
+    ml stuff
+
+commit 4b3ee55335c6ae69de65398eea1bd3baae0328d1
+Author: rubj <rubj@itu.dk>
+Date:   Sun Apr 18 14:21:47 2021 +0200
+
+    Revert "ML stuff"
+    
+    This reverts commit 2960aa73ba297977de8a9b1f41c5abfe133b0523.
+
+commit 2960aa73ba297977de8a9b1f41c5abfe133b0523
+Author: rubj <rubj@itu.dk>
+Date:   Sun Apr 18 14:21:27 2021 +0200
+
+    ML stuff
+
+commit c31feab2ed1a990456310abefb11398bb3b3d361
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Sun Apr 18 00:15:14 2021 +0200
+
+    Touch up color functions and dataframe
+
+commit ecc099ee206cfd41c74d0f460a0c5d6fb23584e4
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Sat Apr 17 20:17:02 2021 +0200
+
+    Work on task 0
+
+commit 16449ce9461fbadf20f5f1fabafa7c5224cdf775
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Sat Apr 17 14:36:44 2021 +0200
+
+    Testing color-functions
+    
+    Making descriptions, dividing it up a bit
+
+commit 464afdef9203a836725fd11121ae3183b8e02759
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Sat Apr 17 12:31:57 2021 +0200
+
+    Explanation of the symmetric feature
+
+commit 45caefc7af46052c67957e6555243057e537aca9
+Merge: ac129e6 5f623b4
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 16 22:39:36 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit ac129e6922d6b1256964bacf9591bcf79b69d41b
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 16 22:39:31 2021 +0200
+
+    Checking functions
+    
+    Primarily in testing_color_function.ipynb.
+    Also finding the R, G and B % of total
+
+commit 5f623b41a51ca8b49fa4a9765a1364253734cf83
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 22:28:13 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit 06efdd9ca6cf713e841db7f074f55e4b9d096592
+Merge: 2d2b685 69d7408
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 18:47:54 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 2d2b6856c8ce04ee6747a9497127fc350e99f233
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 18:47:52 2021 +0200
+
+    Create final.csv
+
+commit 69d74085017ed338997d3367f48e2c916cfe4525
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Fri Apr 16 17:56:01 2021 +0200
+
+    Last bit
+
+commit a2f9b5bd18448f35ebaa5fc29d6108afa41af793
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 17:53:28 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit ad384de68baef3983a0f88a65a27cadfdd8a6834
+Merge: 9268186 e085248
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 16 17:52:16 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 926818676485d2196e465882049bfc52e831cf60
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 16 17:52:07 2021 +0200
+
+    Doing stuff (Ida)
+    
+    testing color functions
+
+commit 76a62f121e8dd11595e5cbc61d9070b9e1a5000d
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 17:49:47 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit e085248fb35a990ff36cea092993b76b259405b5
+Merge: 772036f ccce216
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 17:33:38 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 772036ff53835f32b01f84920ca65660f47b4702
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 17:33:35 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit 31ef2981f6f3a9d147709d3e7b969ee40ebb9626
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 17:33:33 2021 +0200
+
+    Update sabrina2.ipynb
+
+commit 4b70989dc03c525b04bbf01af92500cd3ed13686
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 17:33:30 2021 +0200
+
+    Update .gitignore
+
+commit d3f46b32bf2901800e2724177c24ab6a96d9f4b0
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 17:33:12 2021 +0200
+
+    Create melanoma_healthy.csv
+
+commit 7a4988a5a6f1de070b58ae2592e181dc0c433be5
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 16:56:54 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit 3de311a0fbf0ab10bcdcc7b5f1863184960c2d96
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 16:54:03 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit ccce216202402e5df19c0acf966d6259460957fb
+Merge: e90eee8 cc6267f
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Fri Apr 16 16:28:32 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit e90eee88bdcb307e256f53a6b5d744a9fd34663e
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Fri Apr 16 16:28:01 2021 +0200
+
+    Magnus Notebook update
+
+commit cc6267f1beab08e62a5730751349980e518d2303
+Merge: 29f9929 dd0c103
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 16 16:13:45 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 29f99298e7783bcb11e02a37af2377d63037cd60
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 16 16:13:02 2021 +0200
+
+    color measurement
+
+commit dd0c103d1c70ab82b0149866d47ace753a874883
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Fri Apr 16 15:54:03 2021 +0200
+
+    Added functions to run the feature for symmetry to main
+
+commit 2524b03ce2d8c817c395d10f51bf478ea35785ac
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 15:00:50 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit bb853ea4d71b933c705c0bb314553f3073befd9e
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 14:50:53 2021 +0200
+
+    Update sabrina_org.ipynb
+
+commit e95f84d4e7912dc9fc3fd247f62621a42c23e321
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 14:45:18 2021 +0200
+
+    Create sabrina_org.ipynb
+
+commit 8c5ba36b1db58c1159b028924b226ad440146659
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 14:45:15 2021 +0200
+
+    Update sabrina2.ipynb
+
+commit daec0a45aa002742fb0c1bd586f581b7507f614e
+Merge: 3cae2a5 3c6638e
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 16 14:16:02 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 3cae2a57f7b05f396190704d137bc10c22e10f08
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 16 14:15:46 2021 +0200
+
+    Relative color variance
+
+commit 3c6638e1cc82b253c975f12365688d78d4dd9441
+Merge: 02c543a 8156f15
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 13:24:05 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 02c543a029b127d6bd53834c758b8e17dd0fcc29
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 13:24:03 2021 +0200
+
+    References from past lectures added.
+
+commit c04773ea9fb2a494e8843e8abd887ef6cdb94683
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 13:23:51 2021 +0200
+
+    Updating my notebook.
+
+commit 8156f15f20027d9ebeba0841a0afcc608021ce9a
+Merge: c05d466 c2cd310
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Fri Apr 16 13:03:21 2021 +0200
+
+    Merge pull request #1 from rubj/ruben
+    
+    more stuff task 2
+
+commit c2cd310aa576519d38907776ab8c4b276b07e626
+Author: rubj <rubj@itu.dk>
+Date:   Fri Apr 16 12:00:54 2021 +0200
+
+    more stuff task 2
+
+commit 20feb921a250b8bafe490946edd15fb20aa44efc
+Merge: 453a2b2 c05d466
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Fri Apr 16 11:42:24 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 453a2b23e92085270519209bc5e1717845db653e
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Fri Apr 16 11:41:09 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit c05d466a0f6f808d53b846d4c1dbd5c471ed303f
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 11:25:20 2021 +0200
+
+    Create KNN.ipynb
+
+commit eb17b07dba199f63cc9f27afe616a98445aefebc
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 16 11:25:18 2021 +0200
+
+    Delete placeholder.txt
+
+commit 9d1b0fcb6481d3b52a605782bc9adc5f59d925c6
+Author: rubj <rubj@itu.dk>
+Date:   Fri Apr 16 11:16:16 2021 +0200
+
+    added task 2
+
+commit 9d70d79cd09625f67784a1e5e26f15e91b4a66a9
+Author: rubj <rubj@itu.dk>
+Date:   Fri Apr 16 09:59:20 2021 +0200
+
+    Ruben stuff
+    
+    Exercises and symmetry
+
+commit 1b42419e456515042ddfebc209b52b2cdc9a94ea
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Thu Apr 15 20:55:02 2021 +0200
+
+    Fun with colours
+
+commit b93b5b639077a60cf7f1dd17f338fcb26ef68c42
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Thu Apr 15 12:48:18 2021 +0200
+
+    Added two classifiers, nearest mean and knn
+
+commit fc9ac815b6205205fa1ad34bf6b8d9ed97848ee6
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Thu Apr 15 12:17:00 2021 +0200
+
+    Color measurement in IdaPlayground
+    
+    Plotting and normalizing a lot
+
+commit e93f3bc98f018dd18606d04f5c207765586dfe8d
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Apr 14 21:20:32 2021 +0200
+
+    Changes in IdaPlayground
+    
+    Normalizing average color and range of color values
+
+commit d35e79c1c3e32a86e4573da7c070c18b566d6144
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Apr 14 18:10:13 2021 +0200
+
+    Editing IdaPlayground
+
+commit 5ba64a27c02673763dac77081fd48467528ba034
+Merge: ea7baf3 eaf63f2
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Apr 14 16:45:02 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit ea7baf3773494d80be2b6796a2638b6638a3b39b
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Apr 14 16:45:00 2021 +0200
+
+    Create melanoma_healthy2.csv
+    
+    Includes standard deviation of the radius of skin lesions.
+
+commit eaf63f25310881ef46972748943bbb4e971f5ae6
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Wed Apr 14 16:18:14 2021 +0200
+
+    Delete 1_J4J-hEkemGviW2M3nnmqlw.png
+
+commit 3a5f422dfa51a6611aac80286e2eab0d5b2dc176
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Apr 14 11:37:06 2021 +0200
+
+    Create perfect_circle.png
+
+commit 3aac822d7d7a801374399cc763a923a0fce7eae7
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Apr 14 11:37:05 2021 +0200
+
+    Update sabrina.ipynb
+
+commit d4366f0f87c3541cc25c39dcebc59131580ac0ae
+Merge: 9738663 76e14e8
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 13 18:38:53 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 9738663bd45b6b018b6da1b8bbe1330deb457d2a
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 13 18:38:50 2021 +0200
+
+    Final touches on the symmetry and added a figure
+
+commit 76e14e8787bbc15eaa626c8a307ce3779f23f3fc
+Merge: e22b975 141a7d0
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 18:28:49 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit e22b9757f2d248895c627bc97890b031dcd5df85
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 18:28:36 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 141a7d08f7c6d501da9f292632a546371609f3ac
+Merge: cf4075e 8e255bf
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 13 18:20:02 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit cf4075e48306cd72a44f58d82da59d8e90fead83
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 13 18:19:53 2021 +0200
+
+    Measure color
+
+commit 8e255bf1ce28fcc35feffca23d28655aba11c1c9
+Merge: a35f41d 00823ed
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 18:19:44 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 00823edc1b6a6fc1b0e146ca1d3543af1692c328
+Merge: b90e7be 61702c7
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 13 18:14:10 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit b90e7bed66007e84354e20dd99aac9225a19b730
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 13 18:14:04 2021 +0200
+
+    Finished the symmetry feature and added two columns to the master csv file
+
+commit 61702c7320945fdb2db503ae31cbec1468a86686
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Tue Apr 13 17:49:24 2021 +0200
+
+    Add files via upload
+
+commit b675313c9ab290fe46ee8039a8186dc1ac8132db
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Tue Apr 13 17:34:07 2021 +0200
+
+    Add files via upload
+
+commit 32c215899aabb8032415137c2d48ab42646622f5
+Merge: 9272e87 b9bfb43
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 13 17:33:31 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 9272e878497d6b5d146b0f4d3952a8fe0c0757cf
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 13 17:33:28 2021 +0200
+
+    measure color
+
+commit b9bfb430f1d1919f21f23d22a1a95de5e66a8e5f
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Tue Apr 13 17:19:12 2021 +0200
+
+    Magnus Exercise 3
+
+commit a35f41df662e73548d37663b8dd48333860c14ef
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 17:18:29 2021 +0200
+
+    Update sabrina.ipynb
+
+commit b31d70ee77a95c2cc63b4704ed82db6afca4299d
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 16:42:55 2021 +0200
+
+    Fixed typo.
+
+commit 637fc809be6d97ca12402ca2e47a1138e885bbe9
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 16:29:06 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 5e8188faf58636711b94dafe9ba5d993e5dd2cd6
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 16:29:04 2021 +0200
+
+    Update melanoma_healthy.csv
+
+commit ac6fb86bd4628ea22bd658149965b425a26106bf
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 15:51:28 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 55810fc2a218339246bd88aa7aa3e4b930841dab
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 15:28:50 2021 +0200
+
+    Update melanoma_healthy.csv
+
+commit 75d4f0ce96b06e683f516e5ece5359f0c48dc964
+Merge: ac12105 9c3a145
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 15:24:47 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit ac121052cc917f0a256860f80984260cd9e28c71
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 15:24:44 2021 +0200
+
+    Updates script from Veronika.
+
+commit 9c3a1453221f71b7214e2f857aec9be8a434e3a5
+Merge: 1f44278 698efef
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 13 13:43:00 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 1f442784e2adab66e7feb392372a10a336e91a94
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 13 13:42:50 2021 +0200
+
+    Color adjustment
+
+commit 698efefca129d4ce0de448889c921064baea3b1f
+Merge: 6a24f87 24199ea
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 13:10:57 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 6a24f877e1665ef3d6bb224024659df82f67e11c
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 13 13:10:56 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 24199eade7997f0ebd67355cd2bf8bb84bbce465
+Merge: b7ebac7 05f108e
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Mon Apr 12 21:40:48 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit b7ebac7131c7223599678bdf61b79ed3690f1277
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Mon Apr 12 21:39:03 2021 +0200
+
+    Magnus Exercises2.2
+
+commit 05f108ef4ac8e12ee50960b982fd2a4a0099d3da
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Mon Apr 12 16:32:52 2021 +0200
+
+    Finished the asymmetry feature in RasmusWorkspace and added a basic begining to Main
+
+commit f499193241292853aeec882279458f97054e4a89
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Mon Apr 12 13:57:35 2021 +0200
+
+    Calculate color
+    
+    All RGH-values, dominant RGB-values and average RGB-value done
+
+commit 25bacde0afae2db7d38172cc4afcd331800a2d76
+Merge: 334e3f8 6f36862
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Sat Apr 10 12:40:36 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 334e3f88172d841233bffa90540b89c4f7849ec9
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Sat Apr 10 12:40:28 2021 +0200
+
+    tidying up
+
+commit 6f36862ba8fdb3da66f3aea060ef3482feccfbe3
+Merge: 6c9259d e839fef
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 22:40:52 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 6c9259d4026345ac2b50cce6f1accfaa3df44f7d
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 22:40:51 2021 +0200
+
+    Update sabrina.ipynb
+
+commit d60b1d519904449c3f37fe32057708dc9c6f4774
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 22:22:26 2021 +0200
+
+    Create melanoma_healthy.csv
+    
+    Dataset including features of healthy and melanoma skin lesions.
+
+commit e839fefe40b248b666d49d6a261c58b14a462776
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Fri Apr 9 19:26:20 2021 +0200
+
+    Magnus notebook re-update
+
+commit e8c5257d06060ce5252e385c18bf5790e33847f6
+Merge: fed2270 82429af
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Fri Apr 9 19:05:38 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08 "This merge is necessary to add my work to the
+    repository"
+
+commit fed2270491367467e39121159ffac63f4a3210a5
+Author: MagnusSverdrup <magsv@itu.dk>
+Date:   Fri Apr 9 19:03:32 2021 +0200
+
+    Magnus Notebook Re-update
+
+commit 82429af60f12bd49ee814ef2da850c5a490c5c2b
+Merge: 470ced1 b718eb5
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 18:03:27 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit 470ced1a8c019a29417c7e62a6f6e6a621017a45
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 18:03:25 2021 +0200
+
+    Update sabrina.ipynb
+
+commit dcfb05c7cbe127eb4aade094be07fb8523736e81
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 18:03:21 2021 +0200
+
+    Created figure folders.
+
+commit b718eb51fa40c5c0cb6b68f5e9ef3f4627b907e1
+Merge: 1ed9d87 4f6c42a
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 9 17:35:25 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 1ed9d87cf535efcfe0b22414af025cdac8407957
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 9 17:35:22 2021 +0200
+
+    Exercises 2
+    
+    Functions to measure color of lesion (working progress)
+
+commit 4f6c42acd996ab598a0998b894ff916d3ade4023
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Fri Apr 9 17:27:51 2021 +0200
+
+    Solutions to some of exercise 2
+
+commit 7a7d41bc628c798a4c88a3202b08ab867aa70fbd
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 16:56:08 2021 +0200
+
+    Create .gitignore
+
+commit 34849d9ea99f5521bfb18233de7c0bf036c106ba
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 16:43:47 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 50421380b2c3f464cf057a03b7375a4793897d39
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 14:47:22 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 94f513890dafa7d88bf584fb8da126a48ece06ae
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 14:47:05 2021 +0200
+
+    Update sabrina.ipynb
+
+commit f560f43c96ea780719af00c776e892408b20fc46
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri Apr 9 11:42:43 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 760f41b228843be5cbdb00a44991bb5cac585ac8
+Merge: 2512da9 e4ee646
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Thu Apr 8 16:47:21 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit 2512da9bb8d99ee5e2f9826cf75fb871abc7431f
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Thu Apr 8 16:47:18 2021 +0200
+
+    IdaPlayground
+
+commit e4ee646838d15cfd2b875d01a54d4ebc9d2a6c67
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Thu Apr 8 14:32:31 2021 +0200
+
+    Solved last part of exercise with calculating the max diameter
+
+commit 3ecd9741b23a28412a015c8742e28dbc59d2d4a6
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Thu Apr 8 12:29:32 2021 +0200
+
+    Trying stuff out in IdaPlayground
+    
+    Making image transparent, counting coloured pixels
+
+commit 0dd839c010bbb43083b32ac2cef0ad02541e90ec
+Merge: e864a18 bc6611b
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Wed Apr 7 10:23:50 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/fyp2021p03g08
+
+commit e864a1880615c73a3bd59006c00b6dbf8278793b
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Wed Apr 7 10:23:45 2021 +0200
+
+    Pythagoras stuff
+
+commit bc6611bd17f21119e9047c2c26a9a0e80853dcaf
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Tue Apr 6 20:46:06 2021 +0200
+
+    Add files via upload
+
+commit 245253032575410fc8b05fae3c851cc301456e43
+Merge: d0ae76c 76b19b7
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 6 19:57:07 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/rubj/-fyp2021p03g08
+
+commit d0ae76c9a8dc9d7fb786778ebaa96a4490625af6
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 6 19:57:05 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 76b19b773dc815a9fa1115589fa6e06b7241e7b8
+Author: Magnus Sverdrup <magsv@itu.dk>
+Date:   Tue Apr 6 17:49:41 2021 +0200
+
+    magnus notebook for coding
+
+commit a879c34c1e6bcce10a097fc5270da0693f243d15
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 6 17:35:35 2021 +0200
+
+    Answer to the first exercise
+
+commit 718640a477579ccf78d38a864f9e084652e99dcf
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 6 17:12:04 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 0864620a17eb3badd5e9f1d52c62ebf7b0f84cf7
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 6 16:42:50 2021 +0200
+
+    Update sabrina.ipynb
+
+commit a1e95178ac5f27e2dc56f92e2c9c537d8eebcf96
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 6 16:16:36 2021 +0200
+
+    Updating file names.
+
+commit 2e12b172b26c1e6b594f76856da787788086e6a1
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 6 16:15:36 2021 +0200
+
+    Create sabrina.ipynb
+
+commit 970e51e96242986c8a333734bc0e228befe52a4d
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 6 16:15:28 2021 +0200
+
+    Update README.md
+
+commit fd2d2a19a08db18bcc8c1b523bc47e4d065c56c7
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Tue Apr 6 13:56:45 2021 +0200
+
+    Update README.md
+
+commit 9719d19f39173eb21cc964540715d5f5c0dfc302
+Author: rubj <rubj@itu.dk>
+Date:   Tue Apr 6 13:51:06 2021 +0200
+
+    Update main.ipynb
+
+commit 2579f68b2c86aa470e6fffe4d6948a46b6675735
+Author: rubj <rubj@itu.dk>
+Date:   Tue Apr 6 13:41:09 2021 +0200
+
+    constructing v2
+
+commit 390c8d17b4484fd79798e71d94b9faee9bbe4461
+Author: rubj <rubj@itu.dk>
+Date:   Tue Apr 6 13:27:54 2021 +0200
+
+    Constructing the github page
+
+commit d12ae9290655d4fe7b83a328c5e4fe2f88e9dbf8
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Tue Apr 6 13:14:48 2021 +0200
+
+    Initial commit

@@ -1,0 +1,5 @@
+data/2017
+data/processed/test.csv
+data/processed/images
+data/processed/masks
+.vscode/settings.json
